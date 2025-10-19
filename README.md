@@ -83,7 +83,7 @@
 
 ###
 
-![Pac-Man Contribution Graph](./pacman.svg)
+
 
 
 <picture>
