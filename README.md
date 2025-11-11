@@ -1,9 +1,9 @@
 <h1 align="center">Hello World! 👋I am Huzaif.</h1>
-<h3 align="center">Data Science/AI Engineering</h3>
+<h2 align="center">Data Science/AI Engineering</h2>
 
 - 🔭 I’m Huzaif, currently studying **Computer Science, AI, Machine Learning, Deep learning**
 
-- 🌱 I’m currently working on **Advance GenAI Agentic AI, Advance DL**
+- 🌱 I’m currently working on **Advance GenAI, Agentic AI, Advance DL, Retrieval-Augmented Generation (RAG), LLM Fine-Tuning**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1_RCJqipBAy0a3bzDR_dBHS4h4WKSpaV7/view?usp=drive_link](https://drive.google.com/file/d/1_RCJqipBAy0a3bzDR_dBHS4h4WKSpaV7/view?usp=drive_link)
 
