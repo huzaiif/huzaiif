@@ -3,7 +3,7 @@
 
 - 💡 Just a human teaching machines how to think (and sometimes overthink).
     
-- 🎓 Currently pursuing **Computer Science with a focus on AI, ML, and Deep Learning and all that brainy stuff** 
+- 🎓 Currently pursuing **Computer Science with a focus on AI, ML, and Deep Learning and all that brainy stuff**.
     
 - 🚀 Into **GenAI, Agentic AI, RAGs, LLM Fine-Tuning**, and anything that makes machines a bit smarter.
 
@@ -84,7 +84,6 @@
 
 ###
 
-<h3 align="left">Stats:</h3>
 <h3 align="left">Connect with me:</h3>
 <div align="center">
   <a href="https://www.linkedin.com/in/huzaiif" target="_blank">
@@ -111,7 +110,7 @@
 
 ###
 
-
+<h3 align="left">Stats:</h3>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=huzaiif&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=huzaiif&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
