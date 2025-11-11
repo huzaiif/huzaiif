@@ -7,7 +7,9 @@
     
 - 🚀 Into **GenAI, Agentic AI, RAGs, LLM Fine-Tuning**, and anything that makes machines a bit smarter.
 
-- 🧠 Exploring how **data, logic, and creativity** can build intelligent, human-centered systems 
+- 🧠 Exploring how **data, logic, and creativity** can build intelligent, human-centered systems
+
+- 💻 I don’t just train models — I build the apps and websites they live in, from Android to iOS to the web.
     
 - ⚡ Always building, breaking, and rebuilding — that’s how innovation happens.
    
@@ -82,6 +84,7 @@
 
 ###
 
+<h3 align="left">Stats:</h3>
 <h3 align="left">Connect with me:</h3>
 <div align="center">
   <a href="https://www.linkedin.com/in/huzaiif" target="_blank">
@@ -107,6 +110,7 @@
 
 
 ###
+
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=huzaiif&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
