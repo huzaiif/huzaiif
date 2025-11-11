@@ -1,11 +1,17 @@
-<h1 align="center">Hello World! 👋I am Huzaif.</h1>
-<h2 align="center">Data Science/AI Engineering</h2>
+<h1 align="center">Hello World! 👋 I am Huzaif.</h1>
+<h2 align="center">Data Science/AI Engineering 🤖</h2>
 
-- 🔭 I’m Huzaif, currently studying **Computer Science, AI, Machine Learning, Deep learning**
+- 💡 Just a human teaching machines how to think (and sometimes overthink).
+    
+- 🎓 Currently pursuing **Computer Science with a focus on AI, ML, and Deep Learning and all that brainy stuff** 
+    
+- 🚀 Into **GenAI, Agentic AI, RAGs, LLM Fine-Tuning**, and anything that makes machines a bit smarter.
 
-- 🌱 I’m currently working on **Advance GenAI, Agentic AI, Advance DL, Retrieval-Augmented Generation (RAG), LLM Fine-Tuning**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1_RCJqipBAy0a3bzDR_dBHS4h4WKSpaV7/view?usp=drive_link](https://drive.google.com/file/d/1_RCJqipBAy0a3bzDR_dBHS4h4WKSpaV7/view?usp=drive_link)
+- 🧠 Exploring how **data, logic, and creativity** can build intelligent, human-centered systems 
+    
+- ⚡ Always building, breaking, and rebuilding — that’s how innovation happens.
+   
+- 📄 Wanna know more? Check my [**Resume**](https://drive.google.com/file/d/1_RCJqipBAy0a3bzDR_dBHS4h4WKSpaV7/view?usp=drive_link)  
 
 ###
 
