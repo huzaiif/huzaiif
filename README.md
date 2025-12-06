@@ -13,7 +13,7 @@
     
 - ⚡ Always building, breaking, and rebuilding - that’s how innovation happens.
    
-- 📄 Wanna know more? Check my [**Resume**](https://drive.google.com/file/d/1_RCJqipBAy0a3bzDR_dBHS4h4WKSpaV7/view?usp=drive_link)  
+- 📄 Wanna know more? Check my [**Resume**](https://drive.google.com/file/d/1c5IdKKOSy_o0g8AwyBkvl5BwdPfam3rT/view?usp=drive_link)  
 
 ###
 
