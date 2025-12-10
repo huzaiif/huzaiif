@@ -1,4 +1,4 @@
-[![Hits](https://hits.sh/huzaiif.svg?view=today-total&label=Profile%20Views)](https://hits.sh/huzaiif/)
+![Profile Views](https://komarev.com/ghpvc/?username=huzaiif&color=green)
 
 <h1 align="center">Hello World! 👋 I am Huzaif.</h1>
 <h2 align="center">Data Science / AI Engineering 🤖</h2>
