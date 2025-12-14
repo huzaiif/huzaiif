@@ -22,7 +22,6 @@
 | **🌐 Backend & Systems** | <img src="https://skillicons.dev/icons?i=cpp,fastapi,django,postgresql" /> |
 | **🛠️ Tools** | <img src="https://skillicons.dev/icons?i=git,linux,docker,postman" /> |
 
-</div>
 
 ---
 
