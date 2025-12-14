@@ -87,7 +87,7 @@
 </div>
 
 ###
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huzaiif&langs_count=8)
 
 
 
