@@ -7,7 +7,7 @@
 - 🎓 Currently pursuing **Computer Science Engineering with a focus on AI, ML, and Deep Learning**.
 - 🚀 Into **GenAI, Agentic AI, RAGs, LLM Fine-Tuning**, and intelligent systems.
 - 🧠 Exploring how **data, logic, and creativity** build human-centered AI.
-- 💻 I don’t just train models — I build the apps and platforms they live in.
+- 💻 I don’t just train models, I build the apps and platforms they live in.
 - ⚡ Always building, breaking, and rebuilding.
 - 📄 Wanna know more? Check my [**Resume**](https://drive.google.com/file/d/1c5IdKKOSy_o0g8AwyBkvl5BwdPfam3rT/view?usp=drive_link)
 
