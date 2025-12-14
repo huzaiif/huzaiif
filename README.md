@@ -14,14 +14,13 @@
 ---
 ### 🚀 Technical Arsenal
 
-<div align="center">
-
-| **Domain** | **Technologies** |
+| **Domain** | **Stack** |
 | :--- | :--- |
-| **🤖 AI & Data Science** | <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,numpy,pandas" /> |
+| **🧠 Core AI & ML** | <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,pandas,numpy" /> |
+| **✨ GenAI & LLM Ops** | <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" /> <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" /> <img src="https://img.shields.io/badge/LlamaIndex-040810?style=flat-square&logo=llamaindex&logoColor=white" /> <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white" /> <img src="https://img.shields.io/badge/WandB-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black" /> |
 | **📱 Mobile & App Dev** | <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,swift,gradle" /> |
-| **🌐 Backend & Systems** | <img src="https://skillicons.dev/icons?i=cpp,django,fastapi,postgresql,kafka,apache" /> |
-| **🛠️ Tools & DevOps** | <img src="https://skillicons.dev/icons?i=git,linux,html,css" /> |
+| **🌐 Backend & Cloud** | <img src="https://skillicons.dev/icons?i=fastapi,django,docker,postgresql,kafka,apache" /> |
+| **🛠️ Tools & DevOps** | <img src="https://skillicons.dev/icons?i=git,linux,cpp,html,css" /> |
 
 </div>
 
