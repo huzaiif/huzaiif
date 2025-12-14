@@ -4,11 +4,11 @@
 <h2 align="center">Data Science / AI Engineering 🤖</h2>
 
 - 💡 Just a human teaching machines how to think (and sometimes overthink).
-- 🎓 Currently pursuing **Computer Science Engineering with a focus on AI, ML, and Deep Learning**.
-- 🚀 Into **GenAI, Agentic AI, RAGs, LLM Fine-Tuning**, and intelligent systems.
-- 🧠 Exploring how **data, logic, and creativity** build human-centered AI.
-- 💻 I don’t just train models, I build the apps and platforms they live in.
-- ⚡ Always building, breaking, and rebuilding.
+- 🎓 Currently pursuing **Computer Science Engineering with a focus on AI, ML, and Deep Learning** and all that brainy stuff.
+- 🚀 Into **GenAI, Agentic AI, RAGs, LLM Fine-Tuning**, and anything that makes machines a bit smarter.
+- 🧠 Exploring how **data, logic, and creativity** can build intelligent, human-centered systems
+- 💻 I don’t just train models - I build the apps and websites they live in, from Android to iOS to the web.
+- ⚡ Always building, breaking, and rebuilding - that’s how innovation happens.
 - 📄 Wanna know more? Check my [**Resume**](https://drive.google.com/file/d/1c5IdKKOSy_o0g8AwyBkvl5BwdPfam3rT/view?usp=drive_link)
 
 ---
