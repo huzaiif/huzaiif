@@ -3,6 +3,8 @@
 <h1 align="center">Hello World! 👋 I am Huzaif.</h1>
 <h2 align="center">Data Science / AI Engineering 🤖</h2>
 
+### 👨‍💻 About Me
+
 - 💡 Just a human teaching machines how to think (and sometimes overthink).
 - 🎓 Currently pursuing **Computer Science Engineering with a focus on AI, ML, and Deep Learning** and all that brainy stuff.
 - 🚀 Into **GenAI, Agentic AI, RAGs, LLM Fine-Tuning**, and anything that makes machines a bit smarter.
