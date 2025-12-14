@@ -1,101 +1,102 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=huzaiif&color=green)
 
-<h1 align="center">Hello World! 👋 I am Huzaif.</h1>
-<h2 align="center">Data Science / AI Engineering 🤖</h2>
+<h1 align="center">Huzaif Rather</h1>
+<h3 align="center">AI Engineer • Data Scientist • Full-Stack ML Developer</h3>
 
-- 💡 Just a human teaching machines how to think (and sometimes overthink).
-- 🎓 Currently pursuing **Computer Science Engineering with a focus on AI, ML, and Deep Learning**.
-- 🚀 Into **GenAI, Agentic AI, RAGs, LLM Fine-Tuning**, and intelligent systems.
-- 🧠 Exploring how **data, logic, and creativity** build human-centered AI.
-- 💻 I don’t just train models, I build the apps and platforms they live in.
-- ⚡ Always building, breaking, and rebuilding.
-- 📄 Wanna know more? Check my [**Resume**](https://drive.google.com/file/d/1c5IdKKOSy_o0g8AwyBkvl5BwdPfam3rT/view?usp=drive_link)
+<p align="center">
+Building intelligent systems that combine data, algorithms, and scalable software.
+</p>
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
+## 👋 About Me
+
+I am a **Computer Science Engineering student specializing in Artificial Intelligence and Machine Learning**, with hands-on experience in building **end-to-end AI systems** — from data pipelines and model training to deployment across web and mobile platforms.
+
+My interests include **Generative AI, Retrieval-Augmented Generation (RAG), Agentic AI systems, and LLM fine-tuning**, with a strong focus on building **practical, production-oriented solutions** rather than experimental prototypes.
+
+---
+
+## 🧠 Areas of Expertise
+
+- Machine Learning & Deep Learning  
+- Generative AI (LLMs, RAG, Agents)  
+- Data Analysis & Feature Engineering  
+- Model Deployment & MLOps (APIs, pipelines)  
+- Full-Stack Integration (Web, Android, iOS)  
+
+---
+
+## 🛠️ Languages & Tools
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="60"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="60"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="60"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="60"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="60"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="60"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="60"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" height="60"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="60"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="60"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="60"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="48"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="48"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="48"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="48"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="48"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="48"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="48"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="48"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="48"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="48"/>
 </div>
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/huzaiif" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25"/>
-  </a>
-  <a href="mailto:huzaifrather7@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25"/>
-  </a>
-</div>
-
----
-
-<h3 align="left">Stats:</h3>
+## 📊 GitHub Statistics
 
 <div align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=huzaiif&theme=dracula&layout=compact" 
-    height="150" 
-    alt="Top Languages"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=huzaiif&layout=compact&theme=dracula" 
+    height="150"
   />
-
   <img 
     src="https://streak-stats.demolab.com?user=huzaiif&theme=dracula" 
-    height="150" 
-    alt="GitHub Streak"
-  />
-
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=huzaiif&theme=dracula&row=1&column=6&margin-w=8&margin-h=8" 
-    height="150" 
-    alt="GitHub Trophies"
+    height="150"
   />
 </div>
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=huzaiif&theme=dracula&row=1&column=6"
+    height="120"
+  />
+</div>
+
+---
+
+## 📫 Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/huzaiif">
+    <img src="https://img.shields.io/badge/LinkedIn-Professional-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:huzaifrather7@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://drive.google.com/file/d/1c5IdKKOSy_o0g8AwyBkvl5BwdPfam3rT/view">
+    <img src="https://img.shields.io/badge/Resume-View-2E7D32?style=for-the-badge"/>
+  </a>
+</p>
 
 ---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/huzaiif/huzaiif/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/huzaiif/huzaiif/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/huzaiif/huzaiif/output/pacman-contribution-graph.svg">
+  <img alt="Contribution graph" src="https://raw.githubusercontent.com/huzaiif/huzaiif/output/pacman-contribution-graph.svg">
 </picture>
