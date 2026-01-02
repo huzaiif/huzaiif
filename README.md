@@ -46,24 +46,17 @@
 <div align="center">
 
   
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=huzaiif&theme=dracula&layout=compact" 
-    height="150" 
-    alt="Top Languages"
+   <img 
+    src="https://github-readme-stats.vercel.app/api?username=huzaiif&show_icons=true&theme=tokyonight&hide_border=true" 
+    height="160"
   />
 
-  <img 
-    src="https://streak-stats.demolab.com?user=huzaiif&theme=dracula" 
-    height="150" 
-    alt="GitHub Streak"
-  />
+  <br/><br/>
 
   <img 
-    src="https://github-profile-trophy.vercel.app/?username=huzaiif&theme=dracula&row=1&column=6&margin-w=8&margin-h=8" 
-    height="150" 
-    alt="GitHub Trophies"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=huzaiif&theme=tokyo-night&hide_border=true" 
+    width="95%"
   />
-</div>
 
 
 ---
