@@ -40,7 +40,27 @@
 
 <h3 align="left">Stats:</h3>
 
+
+
+
 <div align="center">
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/AI%2FML-Enthusiast-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GenAI-Builder-black?style=for-the-badge" />
+</p>
+
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=huzaiif&show_icons=true&theme=tokyonight&hide_border=true" 
+  height="160"
+/>
+
+<img 
+  src="https://github-readme-activity-graph.vercel.app/graph?username=huzaiif&theme=tokyo-night&hide_border=true" 
+  width="95%"
+/>
+  
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=huzaiif&theme=dracula&layout=compact" 
     height="150" 
@@ -59,6 +79,7 @@
     alt="GitHub Trophies"
   />
 </div>
+
 
 ---
 
