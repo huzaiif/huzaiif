@@ -9,7 +9,7 @@
 - 🧠 Exploring how **data, logic, and creativity** can build intelligent, human-centered systems
 - 💻 I don’t just train models, I build the apps and websites they live in, from Android to iOS to the web.
 - ⚡ Always building, breaking, and rebuilding, that’s how innovation happens.
-- 📄 Wanna know more? Check my [**Resume**](https://drive.google.com/file/d/1lPLtF_vDDXaspn_rvNcGgpfaBRFE1du1/view?usp=drive_link)
+- 📄 Wanna know more? Check my [**Resume**](https://drive.google.com/file/d/1XGkx9_g-XchXXfebQaqQO5I3rieZhCbr/view?usp=drive_link)
 
 ---
 ### 🚀 Technical Arsenal
