@@ -15,7 +15,7 @@
 ## Current Focus
 
 - Machine learning, Advance Deep learning, Agentic AI systems, RAG pipelines, and LLM fine-tuning  
-- Mathematical foundations: probability, linear algebra, optimization  
+- Mathematical foundations 
 - End-to-end engineering: data → models → applications  
 - 📄 Wanna know more? Check my [**Resume**](https://drive.google.com/file/d/1XGkx9_g-XchXXfebQaqQO5I3rieZhCbr/view?usp=drive_link)
 
