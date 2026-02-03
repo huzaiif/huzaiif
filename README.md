@@ -3,7 +3,7 @@
 
 ## Overview
 
-- Build systems by starting from **first principles**, not frameworks  
+- Build systems by starting from **first principles**  
 - Comfortable moving between **mathematics, algorithms, data, and software**
 - Think in terms of **trade-offs, constraints, and system behavior**
 - Use creativity as a tool for **problem decomposition and design**
