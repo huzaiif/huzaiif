@@ -1,14 +1,22 @@
 <h1 align="center">Hello World! 👋 I am Huzaif.</h1>
 <h2 align="center">Data Science / AI Engineering 🤖</h2>
 
-### 👨‍💻 About Me
+## Overview
 
-- 💡 Just a human teaching machines how to think (and sometimes overthink).
-- 🎓 Currently pursuing **Computer Science Engineering** with a focus on **Data Sceince, AI/ML, and Deep Learning**.
-- 🚀 Into **GenAI, Agentic AI, RAGs, LLM Fine-Tuning**, and anything that makes machines a bit smarter.
-- 🧠 Exploring how **data, logic, and creativity** can build intelligent, human-centered systems
-- 💻 I don’t just train models, I build the apps and websites they live in, from Android to iOS to the web.
-- ⚡ Always building, breaking, and rebuilding, that’s how innovation happens.
+- Build systems by starting from **first principles**, not frameworks  
+- Comfortable moving between **mathematics, algorithms, data, and software**
+- Think in terms of **trade-offs, constraints, and system behavior**
+- Use creativity as a tool for **problem decomposition and design**
+- Prefer solutions that are **simple, robust, and explainable**
+- Enjoy problems that require both **theory and execution**
+
+---
+
+## Current Focus
+
+- Machine learning, Advance Deep learning, Agentic AI systems, RAG pipelines, and LLM fine-tuning  
+- Mathematical foundations: probability, linear algebra, optimization  
+- End-to-end engineering: data → models → applications  
 - 📄 Wanna know more? Check my [**Resume**](https://drive.google.com/file/d/1XGkx9_g-XchXXfebQaqQO5I3rieZhCbr/view?usp=drive_link)
 
 ---
