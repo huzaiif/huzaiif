@@ -1,7 +1,9 @@
 <h1 align="center">Huzaif</h1>
 <h3 align="center">Data Science / AI Engineering 🤖</h3>
 
-## Overview
+---
+
+### Overview
 
 - Build systems by starting from **first principles**  
 - Comfortable moving between **mathematics, algorithms, data, and software**
@@ -12,7 +14,7 @@
 
 ---
 
-## Current Focus
+### Current Focus
 
 - Machine Learning, Advanced Deep Learning, Agentic AI systems, RAG pipelines, and LLM fine-tuning  
 - Mathematical foundations 
