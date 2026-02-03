@@ -1,4 +1,4 @@
-<h1 align="center">Hello World! 👋 I am Huzaif.</h1>
+<h1 align="center">Huzaif</h1>
 <h2 align="center">Data Science / AI Engineering 🤖</h2>
 
 ## Overview
@@ -25,7 +25,7 @@
 | **Domain** | **Stack** |
 | :--- | :--- |
 | **🧠 Data & AI/ML** | <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,kafka" /> |
-| **✨ GenAI & LLM Ops** | <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" /> <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" /> <img src="https://img.shields.io/badge/LlamaIndex-040810?style=flat-square&logo=llamaindex&logoColor=white" /> <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+| **✨ AgenticAI & LLM Ops** | <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" /> <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" /> <img src="https://img.shields.io/badge/LlamaIndex-040810?style=flat-square&logo=llamaindex&logoColor=white" /> <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
 | **📱 Mobile & Web Dev** | <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,swift,gradle,html,css,javascript" /> |
 | **🌐 Backend & Systems** | <img src="https://skillicons.dev/icons?i=cpp,fastapi,django,postgresql" /> |
 | **🛠️ Tools** | <img src="https://skillicons.dev/icons?i=git,linux,docker,postman" /> |
