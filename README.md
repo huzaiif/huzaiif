@@ -1,5 +1,5 @@
 <h1 align="center">Huzaif</h1>
-<h2 align="center">Data Science / AI Engineering 🤖</h2>
+<h3 align="center">Data Science / AI Engineering 🤖</h3>
 
 ## Overview
 
@@ -14,10 +14,10 @@
 
 ## Current Focus
 
-- Machine learning, Advance Deep learning, Agentic AI systems, RAG pipelines, and LLM fine-tuning  
+- Machine Learning, Advanced Deep Learning, Agentic AI systems, RAG pipelines, and LLM fine-tuning  
 - Mathematical foundations 
 - End-to-end engineering: data → models → applications  
-- 📄 Wanna know more? Check my [**Resume**](https://drive.google.com/file/d/1XGkx9_g-XchXXfebQaqQO5I3rieZhCbr/view?usp=drive_link)
+- 📄[**Resume**](https://drive.google.com/file/d/1XGkx9_g-XchXXfebQaqQO5I3rieZhCbr/view?usp=drive_link)
 
 ---
 ### 🚀 Technical Arsenal
