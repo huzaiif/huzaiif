@@ -1,8 +1,6 @@
 <h1 align="center">Hello World! 👋 I am Huzaif.</h1> 
 <h2 align="center">Data Science / AI Engineering 🤖</h2> 
 
----
-
 ### 👨‍💻 About Me 
 
 - 💡 Just a human teaching machines how to think (and sometimes overthink). 
