@@ -1,4 +1,4 @@
-<h1 align="center">Hello World! 👋 I am Huzaif.</h1> 
+<h1 align="center">Hi👋 I am Huzaif.</h1> 
 <h2 align="center">Data Science / AI Engineering 🤖</h2> 
 
 ### 👨‍💻 About Me 
